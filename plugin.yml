@@ -1,0 +1,14 @@
+name: enfPets
+main: com.enforcedmc.pets.Main
+version: 1.0
+author: EnforcedMC
+description: Adds an Experience Pet to the game.
+
+commands:
+ pet:
+  usage: /<command>
+  description: Used to spawn a pet.
+permissions:
+ pet.create:
+  default: op
+  description: Requirement for pet command.

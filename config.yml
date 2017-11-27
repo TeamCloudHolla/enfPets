@@ -1,0 +1,10 @@
+messages:
+ pet: "&a&l* &eAn &d&lExperience Pet &ehas been awarded to you!"
+ activate: "&a&l* &eYou have &7activated &ethe &6Experience Pet &8(&7LvL {level}&8)!"
+ deactivate: "&c&l* &eYour pet is &7no longer &eactive!"
+ levelup: "&a&l* &eYour &dExperience Pet &ehas leveled up to &7LvL &a{level}"
+lore: #DO NOT ADD MORE LINES OF LORE, IT WILL MESS UP THE EXP BAR AND EXP DATA AT THE BOTTOM
+ - "&ePASSIVE"
+ - "&7Gain more experience when picking up exp."
+ - "&a" #This is how you make a blank line
+ - "&eLEVEL: {level}"
